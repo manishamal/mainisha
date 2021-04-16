@@ -212,3 +212,10 @@ padding:8px 0px;
 .margin-new {
     margin: 40px 0px;
   }
+  .box-wrapper {
+    padding: 1rem 1rem;
+  }
+  .powered-by{
+    margin:0px;
+    padding:1rem;
+  }
